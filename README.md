@@ -12,4 +12,4 @@ Moscow aviation institute
 4) Твоя страница может и будет отличаться внешне от макета. Главное - верстка должна быть семантически верной.
 
 Макет, скриншот и картинки по ссылке: https://drive.google.com/open?id=1PWoLJnHDWB-gGCZV1Nlk9w0KnmvYwnYp  
-Результат: https://annyswon.github.io/Web_development/Задание1/
+[Результат:](https://annyswon.github.io/Web_development/Задание 1)
