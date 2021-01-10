@@ -1,6 +1,4 @@
 # Web_development
-[Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218/info)
-
 ## Домашнее задание 1
 
 Обязательные требования:
