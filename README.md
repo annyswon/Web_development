@@ -26,4 +26,4 @@ Moscow aviation institute
 * Подписи под картинками выполены курсивом.
 * Картинки обтекаются текстом. Картинки справа, текст слева.
 
-Что должно получится: [макет](https://drive.google.com/file/d/1txYzFQzGfcwXjRX7wn307vzlvILDtLqF/view)<br>
+Что должно получиться: [макет](https://drive.google.com/file/d/1txYzFQzGfcwXjRX7wn307vzlvILDtLqF/view)<br>
